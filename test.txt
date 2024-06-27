@@ -1,3 +1,4 @@
 pull test
 edit file
 바꾼다면
+fetch
